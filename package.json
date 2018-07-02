@@ -1,0 +1,20 @@
+{
+  "name": "univer2e-server",
+  "version": "0.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/david476/univer2e-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/david476/univer2e-server/issues"
+  },
+  "homepage": "https://github.com/david476/univer2e-server#readme",
+  "dependencies": {
+    "firebase-admin": "^5.12.1"
+  }
+}
